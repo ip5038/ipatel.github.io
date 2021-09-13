@@ -1,0 +1,23 @@
+/* Set the title color and backgorund color*/
+body {
+    background-color: rgb(240, 235, 235);
+}
+
+h1 {
+    color: red;
+}
+
+/* Styling for the table and alignment for image and the text */
+table, th, td {
+    border: 1px solid black;
+    
+}
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+td {
+     text-align: center;
+}
